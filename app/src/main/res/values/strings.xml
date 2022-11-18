@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PBPC2_24060120140134_9</string>
+    <string name="data_received" />
+    <string name="dial_number" />
+    <string name="move_with_data" />
+    <string name="move_activity" />
+</resources>
